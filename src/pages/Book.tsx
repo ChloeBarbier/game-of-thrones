@@ -94,9 +94,9 @@ const Book = () => {
                   <TableCell sx={styles.title}>Died</TableCell>
                   <TableCell sx={styles.title}>Titles</TableCell>
                   <TableCell sx={styles.title}>Aliases</TableCell>
-                  <TableCell sx={styles.title}>Father</TableCell>
-                  <TableCell sx={styles.title}>Mother</TableCell>
-                  <TableCell sx={styles.title}>Spouse</TableCell>
+                  {/* <TableCell sx={styles.title}>Father</TableCell> */}
+                  {/* <TableCell sx={styles.title}>Mother</TableCell> */}
+                  {/* <TableCell sx={styles.title}>Spouse</TableCell> */}
                   <TableCell sx={styles.title}>Allegiances</TableCell>
                   <TableCell sx={styles.title}>Books</TableCell>
                   <TableCell sx={styles.title}>Pov books</TableCell>
